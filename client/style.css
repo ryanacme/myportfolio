@@ -1,0 +1,34 @@
+
+.brand{
+	/*width:30%;*/
+	padding-top:3px;
+	padding-bottom:50px;
+	/*border:5px solid blue;*/
+/*	padding-right: -400px;
+*/}
+.marginTop{
+	padding-top:90px;
+}
+
+.test{
+	max-width: 1000px;
+	/*border:5px solid blue;*/
+}
+
+.meteor-blog-aspect-ratio-placeholder{
+	max-width:350px;
+	max-height:350px;
+}
+
+
+/*.meteor-blog-regular-image{
+	max-width:400px;
+	max-height:400px;
+}*/
+
+
+/*.meteor-blog-post-thumbnail.img{
+	width: 150px;
+	height: 120px;
+}
+*/
